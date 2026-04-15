@@ -1,0 +1,6 @@
+/Users/rnicola/coursera/Spring-Framework-for_java_development/library/src/main/java/com/app/library/LibraryApplication.java
+/Users/rnicola/coursera/Spring-Framework-for_java_development/library/src/main/java/com/app/library/controller/LibraryController.java
+/Users/rnicola/coursera/Spring-Framework-for_java_development/library/src/main/java/com/app/library/model/Book.java
+/Users/rnicola/coursera/Spring-Framework-for_java_development/library/src/main/java/com/app/library/model/BorrowingRecord.java
+/Users/rnicola/coursera/Spring-Framework-for_java_development/library/src/main/java/com/app/library/model/Member.java
+/Users/rnicola/coursera/Spring-Framework-for_java_development/library/src/main/java/com/app/library/service/LibraryService.java
